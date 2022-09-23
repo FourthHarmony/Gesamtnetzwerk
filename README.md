@@ -13,4 +13,4 @@ name	- Agenturname / Kreativpreis / Preiskategorie
 shortname - gekürzter Agenturname / Kreativpreis / Abkürzung Preiskategorie
 kategorie - Kategorie des Preises
 größe - Gesamtumsatz im jeweiligen Jahr in Mio. Euro 
-type	1= Agentur, 2= Preis 3= Preiskategorie
+type	1= Agentur, 2= Preiskategorie, 3= Preis
