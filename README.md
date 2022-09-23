@@ -4,7 +4,7 @@
 from: Kreativpreis / Preiskategorie
 to: Agentur	
 weight: Anzahl der gewonnenen Kategorien
-season: 2018 - 2022
+season: 2017 - 2022
 		
 ## Nodelist		
 
