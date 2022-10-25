@@ -2,15 +2,18 @@
 ## Edgelist		
 
 from: Kreativpreis / Preiskategorie
-to: Agentur	
+to: Agentur / Unternehmen	
 weight: Anzahl der gewonnenen Kategorien
-season: 2017 - 2022
+Jahr: 2017 - 2022
+Honorar: Honorar im jeweiligen Jahr in Mio. Euro
+Auftraggeber: Kunde der Agentur oder Unternehmen selbst
+Mitarbeiterzahl: Anzahl der Mitarbeiter
+Preis: Name des gewonnenen Preises
+Stadt: Hauptsitz
+Gruendungsjahr: Jahr der Gründung
 		
 ## Nodelist		
 
-id - Abkürzung von Agenturname / Kreativpreis / Abkürzung Preiskategorie
-name	- Agenturname / Kreativpreis / Preiskategorie
-shortname - gekürzter Agenturname / Kreativpreis / Abkürzung Preiskategorie
-kategorie - Kategorie des Preises
-größe - Gesamtumsatz im jeweiligen Jahr in Mio. Euro 
-type	1= Agentur, 2= Preiskategorie, 3= Preis
+id - Abkürzung von Agentur- oder Unternehmensname / Kreativpreis / Abkürzung Preiskategorie
+name	- Agentur- oder Unternehmensname / Kreativpreis / Preiskategorie
+type	1= Agentur 2= Unternehmen 3= Preiskategorie 4= Preis
