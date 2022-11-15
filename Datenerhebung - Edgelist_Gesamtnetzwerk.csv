@@ -1,0 +1,125 @@
+from,to,Auftraggeber,Preis,Jahr
+IK,ADI,,2,2017
+IK,EON,,3,2017
+G,Ede,Berufsverband der Deutschen Dermatologen,3,2017
+TI,Fia,Fischer Appelt,2,2017
+TI,Ach,Hamburg Marketing,4,2017
+IFK,Ach,eBay,3,2017
+LK,Ach,Hamburg Marketing,3,2017
+IK,SIM,,4,2017
+SM,Ach,DB Regio,2,2017
+SM,Ach,Hamburg Marketing,3,2017
+SM,Ach,RTL2 Fernsehen GmbH Co KG,1,2017
+SM,RTL,,4,2017
+TI,DT,,2,2017
+BB,FRA,,2,2017
+BB,Ach,Hamburg Marketing,3,2017
+CM,EWE,,2,2017
+CM,Fak,Adobe Systems,3,2017
+LK,Ach,eBay,2,2017
+LK,Ser,Bayerisches Staatsministerium fuer Wirtschaft und Medien Energie und Technologie,4,2017
+EB,ADI,,2,2017
+PK,Ach,BELTRETTER,3,2017
+PK,Res,REWE Group,3,2017
+MK,Fia,Daimler AG,4,2017
+KPR,Ket,EnBW Kernkraft GmbH,3,2018
+KPR,VOD,,4,2018
+IK,COM,,3,2018
+IK,RAG,,2,2018
+IK,VOD,,4,2018
+SM,Ach,GUDberlin fuer BVG Berliner Verkehrsbetriebe,3,2018
+SM,BOE,,4,2018
+G,Ach,Die Techniker,3,2018
+G,Bur,Pfizer Deutschland,2,2018
+TI,BOSCH,,3,2018
+TI,ENBW,,1,2018
+TI,SAM,,4,2018
+BB,Ach,Swiss International Airlines AG,3,2018
+BB,Ach,Fox Networks Group Germany,2,2018
+BB,Fia,Viessmann,4,2018
+LK,Res,vfa Die forschenden Pharmaunternehmen,3,2018
+LK,SPORT,,4,2018
+CM,Oli,Mercedes Benz,2,2018
+CS,DAK,,2,2018
+KK,Ach,,2,2018
+MK,ADAC,,2,2018
+MK,ADAC,,4,2018
+IFK,Fia,Merck,1,2018
+IFK,POR,,4,2018
+PA,Ach,TERRE DES FEMMES ,4,2018
+PA,Ach,TERRE DES FEMMES ,3,2018
+KPR,WEBA,,3,2020
+TI,Res,EON ,3,2020
+BB,Res,Unabhaengiger Beauftragter fuer Fragen des sexuellen Kindesmissbrauchs,3,2020
+CM,Orc,Bundespolizei,3,2020
+N,Fak,,2,2020
+N,Ach,EON,4,2020
+N,TCH,,4,2020
+IK,DS,,4,2020
+SM,Ser,Alliance for Europe,2,2020
+SM,OTTO,,4,2020
+G,KD,,3,2020
+G,Ser,Kassenaerztliche Bundesvereinigung,4,2020
+BB,Kom,Klier Hair Group,2,2020
+CM,Ser,STROKE ART FAIR,4,2020
+LK,Ach,Deutsche Lufthansa,2,2020
+MK,KD,,2,2020
+N,Fak,Microsoft Deutschland,2,2020
+N,FH,,2,2020
+TI,BASF,,2,2020
+MK,Kom,Klier Hair Group,2,2020
+MK,KD,,3,2020
+PK,Fia,Terre des Femmes,3,2020
+KPR,WEBA,,2,2021
+KPR,OTTO,,2,2021
+KPR,FUN,,3,2021
+IK,EV,,4,2021
+G,KD,,4,2021
+BB,Fia,SBahn Berlin,3,2021
+BB,Fia,TERRE DES FEMMES,4,2021
+CS,Ser,Action on Sugar,3,2021
+LK,Fia,Frankfurter Buchmesse,3,2021
+LK,Ser,LEGO,1,2021
+N,Fia,TERRE DES FEMMES,1,2021
+IK,SIM,,2,2021
+SM,DT,,3,2021
+SM,Fia,TERRE DES FEMMES,1,2021
+TI,Res,Deutsches Jugendinstitut,3,2021
+BB,Fia,TERRE DES FEMMES,2,2021
+BB,Fia,TERRE DES FEMMES,1,2021
+BB,Fia,TERRE DES FEMMES,1,2021
+KK,Fia,TERRE DES FEMMES,2,2021
+PA,Fia,TERRE DES FEMMES,2,2021
+TI,BOSCH,,2,2021
+MK,KSB,,2,2021
+MK,NIV,,3,2021
+N,BASF,,2,2021
+N,DT,,3,2021
+CS,EY,,2,2021
+EB,Res,Bundesverband Farbe Gestaltung Bautenschutz,3,2021
+PK,Res,BMFSFJ,4,2021
+IK,BASF,,3,2019
+N,ALDI,,3,2019
+SM,Res,Bundesverband deutscher Banken,3,2019
+CM,Ach,Westdeutsche Lotterie,3,2019
+N,COM,,2,2019
+IK,MIC,,2,2019
+KPR,Ket,EnBW,2,2019
+CM,Fia,Otto,2,2019
+SM,SIM,,2,2019
+LK,Res,Verband Forschender Arzneimittelhersteller,2,2019
+TI,EON,,4,2019
+IK,DT,,4,2019
+SM,KVB,,4,2019
+BB,HORM,,4,2019
+G,BARM,,4,2019
+PK,Ach,Terre des Femmes,2,2019
+KK,Ach,Berliner Verkehrsbetriebe,2,2019
+G,Ket,Klinikum Duesseldorf,3,2019
+TI,Fak,Microsoft Deutschland,3,2019
+SM,Ach,Laut gegen Nazis ,3,2019
+EB,DB,,4,2019
+MK,Ser,Becks,4,2019
+PK,WDL,,4,2019
+EB,MT,,3,2019
+IFK,DKJ,,2,2019
