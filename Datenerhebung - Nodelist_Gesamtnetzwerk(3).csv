@@ -1,0 +1,66 @@
+id,name,groesse_2021,groesse_2020,groesse_2019,groesse_2018,groesse_2017,type,jahr,Mitarbeiterzahl,Gruendungsjahr,Stadt
+1,Deutscher Digital Award,,,,,,4,,,,
+2,Deutscher PR Preis,,,,,,4,,,,
+3,PR Report,,,,,,4,,,,
+4,Deutescher Preis für Onlinekommunikation,,,,,,4,,,,
+SM,Social Media,,,,,,3,,,,
+G,Gesundheit,,,,,,3,,,,
+TI,Technologie und Innovation,,,,,,3,,,,
+BB,Bewegtbild,,,,,,3,,,,
+CM,Corporate Media,,,,,,3,,,,
+CS,Content Strategie,,,,,,3,,,,
+IFK,Influencer Kommunikation,,,,,,3,,,,
+KK,Kreative Kommunikation,,,,,,3,,,,
+LK,Live Kommunikation,,,,,,3,,,,
+MK,Markenkommunikation,,,,,,3,,,,
+PA,Public Affairs,,,,,,3,,,,
+EB,Employer Branding,,,,,,3,,,,
+PK,Politische Kommunikation,,,,,,3,,,,
+Fia,fischerAppelt,55000000,,,,,1,2017,448,1986,Hamburg
+Ede,Edelman,30000000,,,,,1,2017,316,1952,Frankfurt am Main
+Ser,Serviceplan Content Group,21000000,,,,,1,2017,151,1970,Muenchen
+Ach,achtung,18000000,,,,,1,2017,158,2001,Hamburg
+Fak,Faktor 3,16000000,,,,,1,2017,211,1995,Hamburg
+Res,ressourcenmangel,15000000,,,,,1,2017,194,2004,Berlin
+Ket,Ketchum,34000000,,,,,1,2018,2500,1923,NYC
+Oli,Oliver Schrott Kommunikation,29000000,,,,,1,2018,250,1989,Koeln
+Bur,Burson Cohn and Wolfe ,21000000,,,,,1,2018,172,1953,NYC
+Kom,kommpassion,7000000,,,,,1,2020,64,2000,Muenchen
+Orc,ORCA Groupe,10210000,,,,,1,2020,112,2007,Villingen Schwenningen
+RMV,Rhein Main Verkehrsverbund,,,,,,2,2017,140,1995,Hofheim am Taunus
+ADI,adidas Group,21200000000,,,,21200000000,2,2017,61400,1949,Herzogenaurach
+DT,Deutsche Telekom,108800000000,,7490000000,,74900000000,2,2017,27800,1995,Bonn
+EWE,EWE AG,6100000000,,,,7700000000,2,2017,9600,1943,Oldenburg
+FRA,Fraport,2140000000,,,,3000000000,2,2017,81000,1924,Frankfurt am Main
+EON,EON,77300000000,,3800000000,,2900000000,2,2017,386500,2000,Grossenkneten
+SIM,Simens,62200000000,,8300000000,,83000000000,2,2017,303000,1966,Muenchen
+RTL,RTL2 Fernsehen GmbH Co KG,1160000000,,,,1100000000,2,2017,240,1993,Gruenwald
+BOSCH,Bosch,78700000000,,,,77900000000,2,2018,410000,1886,Gerlingen
+RAG,RAG,36800000,,,,1248100000,2,2018,3394,1968,Essen
+DAK,DAK Gesundheit,24440000000,,,,22130000000,2,2018,10700,2016,Hamburg
+ADAC,ADAC,947000000,,,,1140000000,2,2018,2800,1903,Muenchen
+ENBW,ENBW,32100000,,,,17400000,2,2018,21775,1997,Karlsruhe
+VOD,Vodafone Deutschland,32700000000,,,,20300000000,2,2018,13500,1990,Duesseldorf
+BOE,Boehringer Ingelheim,917000000,,,,17500000000,2,2018,50370,1885,Ingelheim am Rhein
+SAM,Samsung,234000000000,,,,204220000000,2,2018,309000,1969,Suwon
+POR,Porsche,24600000000,,,,25800000000,2,2018,32235,1931,Stuttgart
+COM,comdirekt bank,278000000,,,,70700000,2,2018,1274,1994,Quickborn
+SPORT,Sport1 Medien AG,491100000,,,,119100000,2,2018,583,1976,Ismaning
+ALDI,ALDI,,,31000000000,,,2,2019,258995,1961,Essen
+MIC,Microsoft,,,31000000000,,,2,2019,221000,1961,Redmond
+KVB,Koelner Verkehr-Betriebe,,,70700000,,,2,2019,3392,1876,Koeln
+HORM,Horsch Maschienen,,,320000000,,,2,2019,1600,1984,Schwandorf
+BARM,BARMER,,,213000000,,,2,2019,13429,2017,Barmen
+MT,Magenta Telekom,,,80500000000,,,2,2019,2200,1996,Bonn
+DB,Deutsche Bahn,,,44400000000,,,2,2019,340000,1994,Berlin
+DKJ,Deutsche Kinder und Jugendstiftung,,,24100000,,,2,2019,322,1994,Berlin
+BASF,BASF,78600000,59000000,59000000,,,2,2020,111000,1865,Ludwigshafen am Rhein
+WEBA,Webasto,3700000000,3300000000,,,,2,2020,15700,1901,Gauting
+TCH,Tchibo,3200000000,3100000000,,,,2,2020,11230,1949,Hamburg
+OTTO,OTTO,16100000000,3500000000,,,,2,2020,43200,1949,Hamburg
+DS,Dentsply Sirona,4200000000,3300000000,,,,2,2020,16200,1997,Bensheim
+KSB,Klinikum Saarbruecken,,,,,,2,2021,2200,1901,Saarbruecken
+EY,Ey Oesterreich,176000000,,,,,2,2021,284000,1990,Wien
+FUN,FUNKE Mediengruppe,1210000000,,,,,2,2021,13200,1948,Essen
+NIV,NIVEA,7600000000,,,,,2,2021,20600,1882,Hamburg
+EV,Evonik Industries,15000000000,,,,,2,2021,33000,2007,Essen
